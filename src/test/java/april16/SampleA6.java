@@ -19,6 +19,8 @@ public class SampleA6 {
 		skillDropDown.selectByIndex(4);
 		
 		
+		System.out.println("Test");
+		
 
 	}
 
